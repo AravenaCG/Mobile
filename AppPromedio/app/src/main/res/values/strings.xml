@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppPromedio</string>
+    <string name="txtView_status">Status del Alumno</string>
+    <string name="txtMate">Matematica</string>
+    <string name="txtFisica">Fisica</string>
+    <string name="txtQuimica">Quimica</string>
+    <string name="btnPromediar">Promediar</string>
+</resources>

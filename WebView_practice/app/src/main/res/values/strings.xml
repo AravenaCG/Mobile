@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView_practice</string>
+    <string name= "Boton_Navegar"> Navegar </string>
+    <string name="etURL">Ingrese URL</string>
+</resources>
