@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDeDatos</string>
+    <string name="id">ID</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="precio">Precio</string>
+    <string name="BtnRegistrar">Registrar</string>
+    <string name="BtnEliminar">Eliminar</string>
+    <string name="BtnBuscar">Buscar</string>
+    <string name="BtnModificar">Modificar</string>
+</resources>
